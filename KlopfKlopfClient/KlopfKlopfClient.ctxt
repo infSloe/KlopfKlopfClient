@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=KlopfKlopfClient
+comment1.params=adresse\ port
+comment1.target=KlopfKlopfClient(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ verbinden()
+numComments=3
